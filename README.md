@@ -54,8 +54,8 @@ cc -Wall -Wextra -Werror {files}
 ```
 
 ---
-
-Codes:
+<details>
+        <summary>Codes:</summary>
 
 - [ft_putchar:](https://github.com/vinislima/42sp_piscine_rush00/blob/main/ft_putchar.c)
     
@@ -218,3 +218,4 @@ Codes:
     }
     
     ```
+</details>
