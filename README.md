@@ -46,7 +46,7 @@ Participants enhance their ability to work collaboratively, adhere to coding sta
 
 ## Usage
 
-Uncomment the main and use the command below.
+Use the command below.
 
 ```c
 cc -Wall -Wextra -Werror {files}
